@@ -1,4 +1,3 @@
-(https://github.com/rakeshkarthik20/third_party_package_reactchrono_reactjs/assets/119436232/62f36a80-bfb5-4aca-b468-9222b5c0bf00)
 
 # Getting Started with Create React App
 
